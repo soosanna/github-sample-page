@@ -1,0 +1,47 @@
+.col-3,
+.col-9{
+    color: white;
+    padding: 20px;
+    margin: 5px 0px;
+}
+.box {
+    background-color: lightgrey;
+    border: 1px;
+    padding: 300px 50px;
+    margin: 3px 0px;
+    border-radius: 25px 25px;
+  }
+    .col-10,
+    .col-2{
+        background-color: rgb(52, 58, 58);
+        padding: 20px;
+        color: white;
+        justify-self: start;
+    }
+    
+
+
+.box5,
+.box3,
+.box4,
+.box2{
+    padding: 100px 60px;
+    border-radius: 25px;
+
+    background: rgb(192, 199, 199);
+    margin: 20px 0;
+}
+.box5{
+    padding: 150px 410px;
+    border-radius: 25px;
+   
+   margin: 5px 0px;
+}
+.container{
+    background-color: rgba(3, 63, 87, 0.685);
+}
+.box-t{
+    background-color: aqua;
+    padding: 20px 20px;
+    color: white;
+}
